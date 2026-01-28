@@ -19,7 +19,7 @@ Pull requests
 Comments
 These attachments are hosted using the following format:
 https://github.com/user-attachments/files/{unique_id}/{filename}
-https://github.com/user-attachments/files/846622427/secret.txt 
+https://github.com/user-attachments/files/846622427/secret.txt,
 https://github.com/user-attachments/files/24846253/secret.txt
 From the Zone.Identifier data, I was able to extract the unique_id associated with secret.txt:Zone.Identifier
 Step 5: Retrieving the File
